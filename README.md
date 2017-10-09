@@ -63,6 +63,6 @@ Check out the repo maintainer guide at [https://gitcoin.co/help/repo](https://gi
 
 ## Active Funded Issues
 
-<img src=https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco>
+<img src='https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco'>
 
 <img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/gitcoinco' style='width:1px; height:1px;' >
