@@ -3,11 +3,18 @@
 <img src='img/helmet.png'/>
 </td>
 <td width=800>
-Gitcoin is a constellation of Ethereum-based smart contracts designed to _Push Open Source Forward_. Learn more at [https://gitcoin.co](https://gitcoin.co)
+Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Open Source Forward. Learn more at https://gitcoin.co
 </td>
 </table>
 
-# About the Project
+# Why cryptocurrency
+
+Cryptocurrency allows end-users to send tips and issue funding for Github Issues without 
+
+* bureacracy
+* trusted intermediaries
+* international payment fees
+* credit card fees
 
 Gitcoin is an open source distributed network that makes it easy to monetize your work in open source software.
 
