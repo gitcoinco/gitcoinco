@@ -1,14 +1,12 @@
 <table>
-    <Tr>
-        <td width=100>
-            <img src='img/helmet.png'/>
-        </td>
-        <td width=800>
-            # Gitcoin
+<td width=100>
+    <img src='img/helmet.png'/>
+</td>
+<td width=800>
+    # Gitcoin
 
-            Gitcoin is a series of Ethereum-based smart contracts designed to _Push Open Source Forward_. Learn more at [https://gitcoin.co](https://gitcoin.co)
-        </td>
-    </Tr>
+    Gitcoin is a series of Ethereum-based smart contracts designed to _Push Open Source Forward_. Learn more at [https://gitcoin.co](https://gitcoin.co)
+</td>
 </table>
 
 # About the Project
