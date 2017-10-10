@@ -1,13 +1,15 @@
-<img src='https://d3vv6lp55qjaqc.cloudfront.net/items/263e3q1M2Y2r3L1X3c2y/helmet.png'/>
+<table>
+    <Tr>
+        <td width=100>
+            <img src='img/helmet.png'/>
+        </td>
+        <td width=800>
+            # Gitcoin
 
-# Gitcoin
-
-Gitcoin pushes Open Source Forward. Learn more at [https://gitcoin.co](https://gitcoin.co)
-
-
-<a href="https://gitcoin.co/explorer/?q=https://github.com/gitcoinco/web">
-    <img src='https://gitcoin.co/static/v2/images/promo_buttons/slice_01.png' width=267px height=52px />
-</a>
+            Gitcoin is a series of Ethereum-based smart contracts designed to _Push Open Source Forward_. Learn more at [https://gitcoin.co](https://gitcoin.co)
+        </td>
+    </Tr>
+</table>
 
 # About the Project
 
@@ -63,6 +65,8 @@ Check out the repo maintainer guide at [https://gitcoin.co/help/repo](https://gi
 
 ## Active Funded Issues
 
-<img src='https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco'>
+<a href="https://gitcoin.co/explorer/?q=https://github.com/gitcoinco/web">
+    <img src='https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco'>
+</a>
 
 <img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/gitcoinco' style='width:1px; height:1px;' >
