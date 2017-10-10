@@ -3,7 +3,7 @@
 <img src='img/helmet.png'/>
 </td>
 <td width=800>
-__Gitcoin__ is a constellation of Ethereum-based smart contracts designed to _Push Open Source Forward_. Learn more at [https://gitcoin.co](https://gitcoin.co)
+_Gitcoin_ is a constellation of Ethereum-based smart contracts designed to _Push Open Source Forward_. Learn more at [https://gitcoin.co](https://gitcoin.co)
 </td>
 </table>
 
@@ -39,7 +39,28 @@ Gitcoin supports bug, feature, and security funded issues.  Any issue that you n
 
 To get started with funded issues today, it might be good to start small.  Is there a small bug that needs fixed?  An issue that’s been open for a while that no one is tackling?  An administrative task?
 
-Post your issue on the [Issue Explorer](https://gitcoin.co/explorer)
+Post your issue on the [Issue Explorer](https://gitcoin.co/explorer).
+
+# Project Repos
+
+* [web](https://github.com/gitcoinco/web) - This is the website that is live at gitcoin.co
+* [smart_contracts](https://github.com/gitcoinco/smart_contracts) - Where funded issues are stored and indexed.
+* [chrome_ext](https://github.com/gitcoinco/chrome_ext) - The google chrome extension for browsing bounties natively on github.com
+
+# Getting Started
+
+Check out the developer guide at [https://gitcoin.co/help/dev](https://gitcoin.co/help/dev).
+
+Check out the repo maintainer guide at [https://gitcoin.co/help/repo](https://gitcoin.co/help/repo).
+
+## Dogfood Gitcoin
+
+Here's a list of active Funded Issues that were made for building gitcoinco.
+
+<a href="https://gitcoin.co/explorer/?q=https://github.com/gitcoinco/web">
+    <img src='https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco'>
+</a>
+
 
 # About the team
 
@@ -52,22 +73,5 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer)
 </td>
 </table>
 
-# Parts of the project
-
-* [web](https://github.com/gitcoinco/web) - This is the website that is live at gitcoin.co
-* [smart_contracts](https://github.com/gitcoinco/smart_contracts) - Where funded issues are stored and indexed.
-* [chrome_ext](https://github.com/gitcoinco/chrome_ext) - The google chrome extension for browsing bounties natively on github.com
-
-# Getting Started
-
-Check out the developer guide at [https://gitcoin.co/help/dev](https://gitcoin.co/help/dev).
-
-Check out the repo maintainer guide at [https://gitcoin.co/help/repo](https://gitcoin.co/help/repo).
-
-## Active Funded Issues
-
-<a href="https://gitcoin.co/explorer/?q=https://github.com/gitcoinco/web">
-    <img src='https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco'>
-</a>
 
 <img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/gitcoinco' style='width:1px; height:1px;' >
