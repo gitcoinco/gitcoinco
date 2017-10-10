@@ -3,9 +3,7 @@
 <img src='img/helmet.png'/>
 </td>
 <td width=800>
-# Gitcoin
-
-Gitcoin is a series of Ethereum-based smart contracts designed to _Push Open Source Forward_. Learn more at [https://gitcoin.co](https://gitcoin.co)
+__Gitcoin__ is a constellation of Ethereum-based smart contracts designed to _Push Open Source Forward_. Learn more at [https://gitcoin.co](https://gitcoin.co)
 </td>
 </table>
 
@@ -28,7 +26,7 @@ _Funded Issues_ are a way to fund open source features, bugs, or security bounti
 
 > Fund Issue (party 1) => claim funds (party 2) => accept (party 1)
 
-## More details
+## What kinds of issues make great funded issues? 
 
 Gitcoin supports bug, feature, and security funded issues.  Any issue that you need done is a good candidate for a funded issue, provided that:
 
@@ -45,9 +43,14 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer)
 
 # About the team
 
+<table>
+<td width=200>
 <img src="img/guy.png">
-
+</td>
+<td width=800>
 <a href="https://twitter.com/owocki">Kevin Owocki</a> has a BS in Computer Science, 15 years experience in Open Source Software and Technology Startups. He is a volunteer in the Boulder Community for several community organizations, and an avid open source developer. His work has been featured in <a href="http://techcrunch.com/2011/02/10/group-dating-startup-ignighter-raises-3-million/" >TechCrunch</a>, <a href="http://www.cnn.com/2011/BUSINESS/03/29/india.online.matchmaking/" >CNN</a>, <a href="http://www.inc.com/30under30/2011/profile-adam-sachs-kevin-owocki-and-dan-osit-founders-ignighter.html" >Inc Magazine</a>, <a href="http://www.nytimes.com/2011/02/20/business/20ignite.html?_r=4&amp;amp;pagewanted=1&amp;amp;ref=business"  >The New York Times</a>, <a href="http://boingboing.net/2011/09/24/tosamend-turn-all-online-i-agree-buttons-into-negotiations.html" >BoingBoing</a>, <a href="http://www.wired.com/2015/12/kevin-owocki-adblock-to-bitcoin/"  >WIRED</a>, <a href="https://www.forbes.com/sites/amycastor/2017/08/31/toothpick-takes-top-prize-in-silicon-beach-ethereum-hackathon/#6bf23b7452ad" >Forbes</a>, and <a href="http://www.techdigest.tv/2007/08/super_mario_get_1.html" >TechDigest</a>.
+</td>
+</table>
 
 # Parts of the project
 
