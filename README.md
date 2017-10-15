@@ -53,6 +53,7 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer).
 * [web](https://github.com/gitcoinco/web) - This is the website that is live at gitcoin.co
 * [smart_contracts](https://github.com/gitcoinco/smart_contracts) - Where funded issues are stored and indexed.
 * [chrome_ext](https://github.com/gitcoinco/chrome_ext) - The google chrome extension for browsing bounties natively on github.com
+* [ios](https://github.com/gitcoinco/ios) - An iOS app for browsing Funded Issues.
 
 # Getting Started
 
