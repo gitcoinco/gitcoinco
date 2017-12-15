@@ -88,5 +88,6 @@ Here's a list of active Funded Issues that were made for building gitcoinco.
 </td>
 </table>
 
+Also, we are [hiring](https://gitcoin.co/about#jobs)!
 
 <img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/gitcoinco' style='width:1px; height:1px;' >
