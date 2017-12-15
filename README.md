@@ -29,6 +29,9 @@ Gitcoin is an open source distributed network that makes it easy to monetize you
     <img src="img/youtube.png">
 </a>
 
+## Network Values, Mission, and Culture
+
+Read about our culture and mission at https://github.com/gitcoinco/gitcoinco/issues/6 
 
 ## Features
 
