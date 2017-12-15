@@ -19,6 +19,10 @@ Cryptocurrency allows end-users to send tips and issue funding for Github Issues
 * international payment fees
 * credit card fees
 
+[More about how/why cryptocurrency here](https://github.com/gitcoinco/gitcoinco/issues/4)
+
+# What is Gitcoin?
+
 Gitcoin is an open source distributed network that makes it easy to monetize your work in open source software.
 
 <a href="https://gitcoin.co/youtube">
