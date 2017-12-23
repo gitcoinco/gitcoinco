@@ -66,6 +66,13 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer).
 * [ios](https://github.com/gitcoinco/ios) - An iOS app for browsing Funded Issues.
 * [skunkworks](https://github.com/gitcoinco/skunkworks) - Experimental stuff.
 
+# Adding your token to Gitcoin.
+
+Have an ERC20 compatible token that you'ud like to add support for?  Great!
+
+[Here is an example of how to do it](https://github.com/gitcoinco/web/pull/155)
+
+
 # Getting Started
 
 Check out the developer guide at [https://gitcoin.co/help/dev](https://gitcoin.co/help/dev).
