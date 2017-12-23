@@ -72,6 +72,8 @@ Check out the developer guide at [https://gitcoin.co/help/dev](https://gitcoin.c
 
 Check out the repo maintainer guide at [https://gitcoin.co/help/repo](https://gitcoin.co/help/repo).
 
+Check out the Case Study doc at [https://gitcoin.co/casestudies](https://gitcoin.co/casestudies).
+
 ## Dogfood Gitcoin
 
 Here's a list of active Funded Issues that were made for building gitcoinco.
