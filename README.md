@@ -65,6 +65,8 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer).
 * [chrome_ext](https://github.com/gitcoinco/chrome_ext) - The google chrome extension for browsing bounties natively on github.com
 * [ios](https://github.com/gitcoinco/ios) - An iOS app for browsing Funded Issues.
 * [skunkworks](https://github.com/gitcoinco/skunkworks) - Experimental stuff.
+* [creative](https://github.com/gitcoinco/creative) - Creative / design stuff.
+
 
 # Adding your token to Gitcoin.
 
