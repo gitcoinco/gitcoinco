@@ -66,6 +66,7 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer).
 * [ios](https://github.com/gitcoinco/ios) - An iOS app for browsing Funded Issues.
 * [skunkworks](https://github.com/gitcoinco/skunkworks) - Experimental stuff.
 * [creative](https://github.com/gitcoinco/creative) - Creative / design stuff.
+* [community](https://github.com/gitcoinco/community) - community stuff.
 
 
 # Adding your token to Gitcoin.
