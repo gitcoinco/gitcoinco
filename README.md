@@ -67,6 +67,8 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer).
 * [skunkworks](https://github.com/gitcoinco/skunkworks) - Experimental stuff.
 * [creative](https://github.com/gitcoinco/creative) - Creative / design stuff.
 * [community](https://github.com/gitcoinco/community) - community stuff.
+* [CodeSponsor](https://github.com/codesponsor/codesponsor) - CodeSponsor.io [more about Gitcoin / CodeSponsor partnership](https://medium.com/gitcoin/code-sponsor-gitcoin-oss-sustainability-5684c4adf4b4)
+
 
 
 # Adding your token to Gitcoin.
