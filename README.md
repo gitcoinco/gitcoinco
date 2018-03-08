@@ -18,6 +18,7 @@ Cryptocurrency allows end-users to send tips and issue funding for Github Issues
 * trusted intermediaries
 * international payment fees
 * credit card fees
+* plus it allows funding in ERC20 tokens!
 
 [More about how/why cryptocurrency here](https://github.com/gitcoinco/gitcoinco/issues/4)
 
@@ -60,6 +61,7 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer).
 
 # Project Repos
 
+* [GIPs](https://github.com/gitcoinco/GIPs) - Gitcoin Improvement Proposals
 * [web](https://github.com/gitcoinco/web) - This is the website that is live at gitcoin.co
 * [smart_contracts](https://github.com/gitcoinco/smart_contracts) - Where funded issues are stored and indexed.
 * [chrome_ext](https://github.com/gitcoinco/chrome_ext) - The google chrome extension for browsing bounties natively on github.com
