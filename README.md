@@ -32,7 +32,15 @@ Gitcoin is an open source distributed network that makes it easy to monetize you
 
 ## Network Values, Mission, and Culture
 
-Read about our culture and mission at https://github.com/gitcoinco/gitcoinco/issues/6 
+Read about our culture and mission [here](https://github.com/gitcoinco/gitcoinco/issues/6 )
+
+## Open Funded Issues
+
+View our open funded work via this link:
+
+<a href="https://gitcoin.co/explorer?q=gitcoinco">
+    <img src="https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco/gitcoinco">
+</a>
 
 ## Features
 
