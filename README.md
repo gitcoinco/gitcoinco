@@ -72,7 +72,7 @@ Post your issue on the [Issue Explorer](https://gitcoin.co/explorer).
 * [GIPs](https://github.com/gitcoinco/GIPs) - Gitcoin Improvement Proposals
 * [web](https://github.com/gitcoinco/web) - This is the website that is live at gitcoin.co
 * [smart_contracts](https://github.com/gitcoinco/smart_contracts) - Where funded issues are stored and indexed.
-* [chrome_ext](https://github.com/gitcoinco/chrome_ext) - The google chrome extension for browsing bounties natively on github.com
+* [browser-extension](https://github.com/gitcoinco/browser-extension) - The browser extension for browsing bounties natively on github.com
 * [ios](https://github.com/gitcoinco/ios) - An iOS app for browsing Funded Issues.
 * [skunkworks](https://github.com/gitcoinco/skunkworks) - Experimental stuff.
 * [creative](https://github.com/gitcoinco/creative) - Creative / design stuff.
