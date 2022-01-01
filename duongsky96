@@ -1,0 +1,16 @@
+class TransferData():
+    tokenAddress: address
+    destination: address
+    amount: uint256
+    fee: uint256
+    startTime: uint256
+    feeRampup: uint256
+    def getLPFee(transferData, currentTime) -> uint256:
+    if currentTime < startTime:
+        return 0
+    elif currentTime >= startTime + feeRampup:
+        return fee
+    else:
+        # Note: this clause is unreachable if feeRampup == 0
+        return fee * (currentTime - startTime) // feeRampup
+    CONTRACT_FEE_BASIS_POINTS	5
